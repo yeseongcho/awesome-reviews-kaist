@@ -5,7 +5,7 @@
 ## Paper Review  
 
 * [\[2022 Spring\] Paper Review](paper-review/README.md) 
-    * [DevNet](paper-review/2022-spring/SIGKDD-2019-DevNet.md)
+    * [DevNet_수정](paper-review/2022-spring/SIGKDD-2019-DevNet_수정본.md)
 
 
 ## How to contribute  
