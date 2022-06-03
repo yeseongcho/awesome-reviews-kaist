@@ -1,6 +1,6 @@
 # Summary  
 
-* [DSAIL](README.md)
+* [Intro](README.md)
 
 ## Paper Review  
 
@@ -16,4 +16,4 @@
 * [Review Format](paper-review/template.md)  
 ---  
 
-* [DSAIL Lab](https://dsail.kaist.ac.kr/)  
+* [KAIST ISysE](https://statistics.kaist.ac.kr/)  
