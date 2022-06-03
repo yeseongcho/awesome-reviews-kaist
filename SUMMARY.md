@@ -6,6 +6,7 @@
 
 * [\[2022 Spring\] Paper Review](paper-review/README.md) 
     * [DevNet](paper-review/2022-spring/SIGKDD-2019-DevNet_수정본.md)
+    * [OCGAN](paper-review/2022-spring/CVPR-2019-OCGAN.md)
 
 
 ## How to contribute  
